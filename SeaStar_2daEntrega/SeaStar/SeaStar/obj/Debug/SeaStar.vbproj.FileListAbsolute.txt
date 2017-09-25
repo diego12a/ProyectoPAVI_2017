@@ -1,0 +1,21 @@
+C:\Users\alumno.GABINF\Documents\SeaStar\SeaStar\SeaStar\bin\Debug\SeaStar.exe.config
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\bin\Debug\SeaStar.exe.config
+D:\SeaStar\SeaStar\bin\Debug\SeaStar.exe.config
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\bin\Debug\SeaStar.exe
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\bin\Debug\SeaStar.pdb
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\bin\Debug\SeaStar.xml
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.ABMCubiertas.resources
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.AbmNavios.resources
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.AbmPuertos.resources
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.formMenu.resources
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.Resources.resources
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.vbproj.GenerateResource.Cache
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.exe
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.xml
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.pdb
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.EliminarPuerto.resources
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.EliminarNavio.resources
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.EliminarCubierta.resources
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.vbprojResolveAssemblyReference.cache
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.AbmItinerarios.resources
+D:\ale\facu\2017\pav 2do cuatri\SeaStar\SeaStar\obj\Debug\SeaStar.EliminarItinerario.resources
